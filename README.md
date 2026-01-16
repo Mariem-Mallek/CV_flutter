@@ -6,7 +6,7 @@ Application de CV personnel développée avec **Flutter**, mettant en valeur les
 
 ## 📱 Description
 
-Ce projet est une application multiplateforme (Web, Android, iOS, Desktop) conçue pour présenter un **CV interactif**.  
+Ce mini projet est une application multiplateforme (Web, Android, iOS, Desktop) conçue pour présenter un **CV interactif**.  
 Elle permet de naviguer facilement entre différentes sections telles que le profil, les compétences, les expériences professionnelles, la formation et les projets.
 
 ---
